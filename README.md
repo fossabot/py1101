@@ -1,4 +1,6 @@
 # py1101
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F10git%2Fpy1101.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F10git%2Fpy1101?ref=badge_shield)
+
 Python3 port of the Simon Monks' clone of the ELECHOUSE_CC1101 C++ library, https://github.com/simonmonk/CC1101_arduino.
 The CC1101 module is described here: http://www.elechouse.com/elechouse/images/product/CC1101%20Wirless%20Data%20Transmittion%20Module/CC1101%20Module%20Manual.pdf 
 
@@ -45,3 +47,7 @@ if __name__ == '__main__':
 # Caveats
 
 Wiringpi is deprecated (http://wiringpi.com/wiringpi-deprecated).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F10git%2Fpy1101.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F10git%2Fpy1101?ref=badge_large)
